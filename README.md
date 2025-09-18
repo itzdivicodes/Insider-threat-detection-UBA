@@ -4,11 +4,11 @@
 
 **Team Member:** Divya Pugalendiran, Hemila Saravanan, Bodhana A, and Lokireddy Madhavi
 
-📌 **Overview**
+**Overview**
 
 This project detects insider threats by analyzing three core activity logs. Machine-learning models flag suspicious patterns such as unusual logins, unexpected file access, and abnormal application usage to help prevent internal security breaches.
 
-🚀 **Features**
+**Features**
 
 Three-Source Data Integration: Merges
 
@@ -24,7 +24,7 @@ Federated Learning (FedAvg): Simulated privacy-preserving training across nodes.
 
 Random Forest Detector: Final supervised classification and validation.
 
-🏗️ **Tech Stack**
+**Tech Stack**
 
 Language: Python
 
@@ -32,7 +32,7 @@ Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib
 
 Environment: Google Colab 
 
-⚙️ **Methodology**
+**Methodology**
 
 Preprocessing – Cleaned, normalized, and engineered features from the three datasets.
 
@@ -50,7 +50,7 @@ Modeling –
 
 Evaluation – Accuracy, confusion matrix, and classification metrics.
 
-📊 **Results**
+**Results**
 
 High detection accuracy with minimal false positives.
 
