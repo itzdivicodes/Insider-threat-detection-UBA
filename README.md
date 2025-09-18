@@ -1,13 +1,14 @@
 **Insider Threat Detection**
 
-Team Name: Quatrix
-Team Member: Divya Pugalendiran, Hemila Saravanan, Bodhana A, and Lokireddy Madhavi
+**Team Name:** Quatrix
 
-📌 Overview
+**Team Member:** Divya Pugalendiran, Hemila Saravanan, Bodhana A, and Lokireddy Madhavi
+
+📌 **Overview**
 
 This project detects insider threats by analyzing three core activity logs. Machine-learning models flag suspicious patterns such as unusual logins, unexpected file access, and abnormal application usage to help prevent internal security breaches.
 
-🚀 Features
+🚀 **Features**
 
 Three-Source Data Integration: Merges
 
@@ -23,7 +24,7 @@ Federated Learning (FedAvg): Simulated privacy-preserving training across nodes.
 
 Random Forest Detector: Final supervised classification and validation.
 
-🏗️ Tech Stack
+🏗️ **Tech Stack**
 
 Language: Python
 
@@ -31,21 +32,22 @@ Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib
 
 Environment: Google Colab (all notebooks and scripts can be run end-to-end in Colab—no local setup required)
 
-⚙️ Methodology
+⚙️ **Methodology**
 
 Preprocessing – Cleaned, normalized, and engineered features from the three datasets.
 
 Modeling –
 
-GRU Autoencoder for anomaly detection
+      GRU Autoencoder for anomaly detection
 
-Federated Learning (FedAvg) for distributed privacy
+      Federated Learning (FedAvg) for distributed privacy
 
-Random Forest for supervised threat detection
+      Random Forest for supervised threat detection
+
 
 Evaluation – Accuracy, confusion matrix, and classification metrics.
 
-📊 Results
+📊 **Results**
 
 High detection accuracy with minimal false positives.
 
