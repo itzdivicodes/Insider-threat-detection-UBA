@@ -1,4 +1,4 @@
-Insider Threat Detection
+**Insider Threat Detection**
 
 Team Name: Quatrix
 Team Member: Divya Pugalendiran, Hemila Saravanan, Bodhana A, and Lokireddy Madhavi
