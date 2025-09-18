@@ -30,13 +30,14 @@ Language: Python
 
 Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, Matplotlib
 
-Environment: Google Colab (all notebooks and scripts can be run end-to-end in Colab—no local setup required)
+Environment: Google Colab 
 
 ⚙️ **Methodology**
 
 Preprocessing – Cleaned, normalized, and engineered features from the three datasets.
 
 Modeling –
+ 1. Federated Learning + Deep Learning combo
 
       GRU Autoencoder for anomaly detection
 
@@ -44,6 +45,8 @@ Modeling –
 
       Random Forest for supervised threat detection
 
+ 2. Isolation Forest 
+ 3. Autoencoder
 
 Evaluation – Accuracy, confusion matrix, and classification metrics.
 
